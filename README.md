@@ -42,3 +42,10 @@ Control Channel;
 https://en.wikipedia.org/wiki/Control_channel
 
 
+
+MISC;
+Babin, Steve. Developing software for Symbian OS: A beginner's guide to creating Symbian OS v9 smartphone applications in C++. Symbian Press, 2007, p. 80.
+https://books.google.com/books?id=thd5DSWn_F4C&pg=PA80#v=onepage&q&f=false
+
+http://events.ccc.de/congress/2011/Fahrplan/attachments/2022_11-ccc-qcombbdbg.pdf
+
