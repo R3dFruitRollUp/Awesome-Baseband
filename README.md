@@ -12,3 +12,22 @@ Ralf Philipp Weinmann. "WOOT 2012: Baseband Attacks: Remote Exploitation of Memo
 https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf
 "Replicant developers find and close Samsung Galaxy backdoor". Free Software Foundation. Retrieved 2015-10-03.
 https://www.fsf.org/blogs/community/replicant-developers-find-and-close-samsung-galaxy-backdoor
+
+
+TDMA;
+https://en.wikipedia.org/wiki/Time-division_multiple_access
+
+
+CMDA;
+https://en.wikipedia.org/wiki/Code-division_multiple_access
+
+
+Cell Broadcast; 
+https://en.wikipedia.org/wiki/Cell_Broadcast
+SMS - http://www.etsi.org/deliver/etsi_gts/03/0341/05.01.00_60/gsmts_0341v050100p.pdf
+
+
+Control Channel;
+https://en.wikipedia.org/wiki/Control_channel
+
+
